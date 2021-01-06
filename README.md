@@ -17,7 +17,7 @@ Angular.JS
 Canvas.JS
 ```
 
-Some of my hobbies are:
+### Some of my hobbies are:
 - Art and crafts
   - I've been cross-stiching a lot recently
   - And getting back into painting and sketching
@@ -25,12 +25,12 @@ Some of my hobbies are:
 - Working out
   - Slowly getting back into it!
 
-Some music genres I enjoy are:
+### Some music genres I enjoy are:
 1. Rnb
 2. Rap
 3. Edm
 
-Some new years resolutions for 2021:
+### Some new years resolutions for 2021:
 - [ ] Rediscover old hobbies like reading
 - [ ] Get more into fashion
 - [ ] Develop career more
