@@ -1,37 +1,36 @@
-## Welcome to GitHub Pages
+## Hi, I'm Lulu
 
-You can use the [editor on GitHub](https://github.com/luluzhu9/luluzhu9.github.io/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
+![](file://IMG_3285.JPG)
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+I'm a *3rd year Computer Science major* at the **University of California, San Diego** minoring in *Cognitive Science*.
+~~Mistaken Text~~
 
-### Markdown
+I also have a [Design Portfolio](https://www.luluzhu.com/) in the works.
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+One interesting quote from a book I read recently is:
+> Those who find beautiful meanings in beautiful things are the cultivated. For these there is hope.
 
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
+Some libraries I've dabbled in are:
+```
+React.JS
+Angular.JS
+Canvas.JS
 ```
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+Some of my hobbies are:
+- Art and crafts
+  - I've been cross-stiching a lot recently
+  - And getting back into painting and sketching
+- Baking
+- Working out
+  - Slowly getting back into it!
 
-### Jekyll Themes
+Some music genres I enjoy are:
+1. rnb
+2. rap
+3. edm
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/luluzhu9/luluzhu9.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+Some new years resolutions for 2021:
+- [ ] Rediscover old hobbies like reading
+- [ ] Get more into fashion
+- [ ] Develop my career more
